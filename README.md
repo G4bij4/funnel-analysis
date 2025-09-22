@@ -1,4 +1,4 @@
-# FUNNEL ANALYSIS USING SYNTHETIC DATASET
+# FUNNELS ANALYSIS USING SYNTHETIC DATASET
 
 **Goal** 
 Analyze client conversion through a website in the top three countries with the highest number of events. The analysis aims to identify areas with the highest churn and provide actionable suggestions to improve overall conversion rates.
