@@ -6,7 +6,8 @@ Analyze client conversion through a website in the top three countries with the 
 
 The dataset used in this project is synthetic and created for educational purposes.
 
-SQL queries used can be found here:
+SQL queries used can be found here: ['Queries for Funnels Analysis.sql'](https://github.com/G4bij4/funnel-analysis/blob/main/Queries%20for%20Funnels%20Analysis.sql}
+
 Funnels overview can be found here: https://docs.google.com/spreadsheets/d/1fyP16HY1hPjX6Ha2ARWsbcbtGpsjnt8K/edit?usp=sharing&ouid=107828988815417066606&rtpof=true&sd=true
 
 ## Process of the project:
